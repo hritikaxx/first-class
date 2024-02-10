@@ -1,1 +1,1 @@
-# first-class
+# My First Class!
